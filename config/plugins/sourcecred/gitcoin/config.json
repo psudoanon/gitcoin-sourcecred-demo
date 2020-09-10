@@ -1,0 +1,5 @@
+{
+  "pgDatabaseUrl": "postgresql://postgres@localhost:5432/postgres",
+  "gitcoinHost": "localhost:8080",
+  "userWhitelist": []
+}

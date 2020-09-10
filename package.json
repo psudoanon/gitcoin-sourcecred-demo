@@ -7,17 +7,17 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "sourcecred": "0.7.0-beta-14"
+    "sourcecred-gitcoin-demo": "0.7.1"
   },
   "scripts": {
     "clean": "rimraf cache site",
     "clean-all": "yarn clean && rimraf output",
-    "load": "sourcecred load",
-    "graph": "sourcecred graph",
-    "score": "sourcecred score",
-    "site": "sourcecred site",
-    "serve": "sourcecred serve",
-    "grain": "sourcecred grain"
+    "load": "sourcecred-gitcoin-demo load",
+    "graph": "sourcecred-gitcoin-demo graph",
+    "score": "sourcecred-gitcoin-demo score",
+    "site": "sourcecred-gitcoin-demo site",
+    "serve": "sourcecred-gitcoin-demo serve",
+    "grain": "sourcecred-gitcoin-demo grain"
   },
   "devDependencies": {
     "rimraf": "^3.0.2"
