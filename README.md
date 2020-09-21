@@ -79,6 +79,10 @@ Generated Data:
 
 # Supported Plugins
 
+## Gitcoin
+
+The Gitcoin plugin comes configured to access a Postgres instance. Updating the relevant config file with the connection string suiting your environment. 
+
 ## GitHub
 
 The GitHub plugin loads GitHub repositories.
